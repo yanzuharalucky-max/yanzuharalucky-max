@@ -2,13 +2,16 @@
   <!-- Dynamic Cyber Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=220&section=header&text=Lucky%20Yan%20Zuhara&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Specialist&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Interactive Identity Badges -->
+  <!-- Interactive Identity & Portfolio Badges -->
   <p align="center">
-    <a href="mailto:yanzuharalucky@gmail.com">
-      <img src="https://img.shields.io/badge/Email-yanzuharalucky%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <a href="https://yanzuharalucky-max.github.io/my-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-yanzuharalucky--max.github.io-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Badge" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%2F%20Internship-22c55e?style=for-the-badge" alt="Status" />
-    <img src="https://img.shields.io/badge/Education-S1%20Teknik%20Informatika%20(UNPAM)-3b82f6?style=for-the-badge" alt="Education" />
+    <a href="mailto:yanzuharalucky@gmail.com">
+      <img src="https://img.shields.io/badge/Email-yanzuharalucky%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%2F%20Internship-22c55e?style=for-the-badge" alt="Status Badge" />
+    <img src="https://img.shields.io/badge/Education-S1%20Teknik%20Informatika%20(UNPAM)-3b82f6?style=for-the-badge" alt="Education Badge" />
   </p>
 
   <!-- Live Typing SVG -->
